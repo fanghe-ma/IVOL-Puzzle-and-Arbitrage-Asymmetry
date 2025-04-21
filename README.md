@@ -2,14 +2,14 @@
 
 This project investigates the relationship between idiosyncratic volatility (IVOL) and arbitrage activity, replicating and extending findings from Stambaugh, Yu, and Yuan (2015) using U.S. equity data from 2014–2024.
 
-## 📁 Project Structure
+## Project Structure
 
 - `notebooks/`: Contains Jupyter notebooks for different stages of the analysis.
 - `src/`: Python scripts for reusable logic.
 - `data/`: Place to store CSVs and datasets (not versioned).
 - `outputs/`: Generated plots, results, etc. (optional).
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. Clone the repository:
     ```bash
@@ -32,8 +32,8 @@ This project investigates the relationship between idiosyncratic volatility (IVO
 
 5. Launch JupyterLab or Jupyter Notebook to start exploring
 
-## 🧪 Tests
+## Tests
 
-## 📫 Contact
+## Contact
 
 For any questions, contact [fanghema@wharton.upenn.edu].
