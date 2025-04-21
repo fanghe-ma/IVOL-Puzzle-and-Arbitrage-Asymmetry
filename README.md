@@ -13,6 +13,8 @@ This project investigates the relationship between idiosyncratic volatility (IVO
 
 1. Clone the repository:
     ```bash
+    git clone https://github.com/fanghe-ma/IVOL-Puzzle-and-Arbitrage-Asymmetry.git
+    cd IVOL-Puzzle-and-Arbitrage-Asymmetry
     ```
 
 2. Create a virtual environment and activate it:
@@ -26,11 +28,9 @@ This project investigates the relationship between idiosyncratic volatility (IVO
     pip install -r requirements.txt
     ```
 
-4. Place required data files in the `data/` folder.
+4. Place required data files in the `data/` folder. Data can be retrieved [here](https://penno365-my.sharepoint.com/:f:/g/personal/fanghema_upenn_edu/Emak65gizSFOtBffZSvJ4FoBmywxb2l0KyrzesDVf-XNcg?e=VdDnAN)
 
-5. Launch JupyterLab or Jupyter Notebook to start exploring:
-    ```bash
-    ```
+5. Launch JupyterLab or Jupyter Notebook to start exploring
 
 ## 🧪 Tests
 
