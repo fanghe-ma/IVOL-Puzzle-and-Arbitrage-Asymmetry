@@ -1,5 +1,5 @@
 # Ignore data and outputs
-data/
+Data/*
 outputs/
 
 # Jupyter checkpoint files
