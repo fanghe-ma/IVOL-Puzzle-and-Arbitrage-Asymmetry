@@ -1,9 +1,0 @@
-{
-    "java.search.scope": "all",
-    "github.copilot.enable": {
-        "*": true,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false
-    }
-}
