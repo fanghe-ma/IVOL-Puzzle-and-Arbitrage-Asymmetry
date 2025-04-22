@@ -1,7 +1,9 @@
-torch==2.5.1
-pandas==2.2.2
-matplotlib==3.9.2
-seaborn==0.13.2
-wrds==3.3.0
-statsmodels==0.14.4
-
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
+tqdm
+wrds
+xgboost
