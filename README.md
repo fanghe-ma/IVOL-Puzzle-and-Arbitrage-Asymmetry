@@ -29,7 +29,7 @@ This project investigates the relationship between idiosyncratic volatility (IVO
 
 4. Place required data files in the `Data/` folder. Data can be retrieved [here](https://penno365-my.sharepoint.com/:f:/g/personal/fanghema_upenn_edu/Emak65gizSFOtBffZSvJ4FoBmywxb2l0KyrzesDVf-XNcg?e=VdDnAN). 
 
-5. Launch JupyterLab or Jupyter Notebook to start exploring
+5. Launch JupyterLab or Jupyter Notebook to start exploring.
 
 ## Contact
 
