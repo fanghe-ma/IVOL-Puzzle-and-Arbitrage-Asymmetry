@@ -1,6 +1,6 @@
 # IVOL Puzzle and Arbitrage Asymmetry
 
-This project investigates the relationship between idiosyncratic volatility (IVOL) and arbitrage activity, extending findings from Stambaugh, Yu, and Yuan (2015) using U.S. equity data from 1965–2024. This project confirms that both the negative IVOL effect and the arbitrage asymmetry stories hold true on the extended dataset.
+This project investigates the relationship between idiosyncratic volatility (IVOL) and arbitrage activity, extending findings from Stambaugh, Yu, and Yuan (2015) using U.S. equity data from 1965–2024. This project confirms the persistence of a negative IVOL effect by looking at positive abnormal returns on a IVOL long/short strategy. This project confirms the persistence of arbitrage asymmetry by using a basket of 9 return anomalies (a slight modification to Stambaugh, Yu and Yuan's original 11) as proxy for mispricing, and finding that 1) degree of mispricing is greater for stocks with higher IVOL and 2) more underpricing is arbitraged away than overpricing. 
 
 ## Project Structure
 
