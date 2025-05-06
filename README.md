@@ -6,7 +6,7 @@ This project investigates the relationship between idiosyncratic volatility (IVO
 
 - `Notebooks/`: Contains Jupyter notebooks for different stages of the analysis.
 - `Data/`: Place to store CSVs and datasets (not versioned).
-- `src/`: Python scripts for reusable logic.
+- `src/`: Python scripts for reusable logic. Will be updated soon.
 
 ## Setup Instructions
 
