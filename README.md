@@ -1,6 +1,6 @@
 # IVOL Puzzle and Arbitrage Asymmetry
 
-This project investigates the relationship between idiosyncratic volatility (IVOL) and arbitrage activity, extending findings from Stambaugh, Yu, and Yuan (2015) using U.S. equity data from 1965–2024.
+This project investigates the relationship between idiosyncratic volatility (IVOL) and arbitrage activity, extending findings from Stambaugh, Yu, and Yuan (2015) using U.S. equity data from 1965–2024. This project confirms that both the negative IVOL effect and the arbitrage asymmetry stories hold true on the extended dataset.
 
 ## Project Structure
 
@@ -27,7 +27,7 @@ This project investigates the relationship between idiosyncratic volatility (IVO
     pip install -r requirements.txt
     ```
 
-4. Place required data files in the `Data/` folder. Data can be retrieved [here](https://penno365-my.sharepoint.com/:f:/g/personal/fanghema_upenn_edu/Emak65gizSFOtBffZSvJ4FoBmywxb2l0KyrzesDVf-XNcg?e=VdDnAN)
+4. Place required data files in the `Data/` folder. Data can be retrieved [here](https://penno365-my.sharepoint.com/:f:/g/personal/fanghema_upenn_edu/Emak65gizSFOtBffZSvJ4FoBmywxb2l0KyrzesDVf-XNcg?e=VdDnAN). 
 
 5. Launch JupyterLab or Jupyter Notebook to start exploring
 
